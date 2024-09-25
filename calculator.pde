@@ -208,7 +208,7 @@ void keyPressed() {
     }
        
   } if (keyCode == SHIFT) {
-    view_mode = (view_mode+1)%4; // when pressed, any other key changes view mode
+    view_mode = (view_mode+1)%4; //changes view mode
   }
 }
 
