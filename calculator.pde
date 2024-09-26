@@ -15,7 +15,7 @@
 */
 
 /* choose representation/graphic output as follows : 
-0: time-dependent profile (orbit) ; 1: transversal distribution (statistics) ; 2: P_n+1=f(P_n) phase space ; 3: probability heatmap top-scanning */
+0: time-dependent profile (orbit) ; 1: transversal distribution (statistics) ; 2: C_n+1=f(C_n) phase space ; 3: probability heatmap top-scanning */
 int view_mode = 1;    
 
 /* total number of values computated/recorded per orbit (augment for better statistics at the cost of CPU) */
